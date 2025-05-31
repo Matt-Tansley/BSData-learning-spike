@@ -1,10 +1,10 @@
 # BSData Learning Spike
 
-[![Latest release](https://img.shields.io/github/release/Matt-TansleyBSData-learning-spike.svg?style=flat-square)](https://github.com/Matt-TansleyBSData-learning-spike/releases/latest)
-[![Commits (since latest release)](https://img.shields.io/github/commits-since/Matt-TansleyBSData-learning-spike/latest.svg?style=flat-square)](https://github.com/Matt-TansleyBSData-learning-spike/releases)
-[![Open bugs](https://img.shields.io/github/issues/Matt-TansleyBSData-learning-spike/bug.svg?style=flat-square&label=bugs)](https://github.com/Matt-TansleyBSData-learning-spike/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
-[![Contributors](https://img.shields.io/github/contributors/Matt-TansleyBSData-learning-spike.svg?style=flat-square)](https://github.com/Matt-TansleyBSData-learning-spike/graphs/contributors)
-[![Commit activity the past year](https://img.shields.io/github/commit-activity/y/Matt-TansleyBSData-learning-spike.svg?style=flat-square)](https://github.com/Matt-TansleyBSData-learning-spike/pulse/monthly)
+[![Latest release](https://img.shields.io/github/release/Matt-Tansley/BSData-learning-spike.svg?style=flat-square)](https://github.com/Matt-Tansley/BSData-learning-spike/releases/latest)
+[![Commits (since latest release)](https://img.shields.io/github/commits-since/Matt-Tansley/BSData-learning-spike/latest.svg?style=flat-square)](https://github.com/Matt-Tansley/BSData-learning-spike/releases)
+[![Open bugs](https://img.shields.io/github/issues/Matt-Tansley/BSData-learning-spike/bug.svg?style=flat-square&label=bugs)](https://github.com/Matt-Tansley/BSData-learning-spike/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+[![Contributors](https://img.shields.io/github/contributors/Matt-Tansley/BSData-learning-spike.svg?style=flat-square)](https://github.com/Matt-Tansley/BSData-learning-spike/graphs/contributors)
+[![Commit activity the past year](https://img.shields.io/github/commit-activity/y/Matt-Tansley/BSData-learning-spike.svg?style=flat-square)](https://github.com/Matt-Tansley/BSData-learning-spike/pulse/monthly)
 
 [![Chat on Discord](https://img.shields.io/discord/558412685981777922.svg?logo=discord&style=popout-square)](https://www.bsdata.net/discord)
 
@@ -30,4 +30,4 @@ Great, thank you! Please [Report a bug][bug report] - you can also suggest enhan
 - [BattleScribe app homepage](https://www.battlescribe.net/)
 
 [BSData.net]: https://www.bsdata.net/
-[bug report]: https://github.com/Matt-TansleyBSData-learning-spike/issues/new/choose
+[bug report]: https://github.com/Matt-Tansley/BSData-learning-spike/issues/new/choose
